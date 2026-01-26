@@ -18,6 +18,16 @@ NETRA transforms your camera feed into a sophisticated radar tracking system usi
 
 ---
 
+## 🎬 Demo Video
+
+Watch NETRA in action! Check out our [Testing Video](./Testing%20Video.mov) to see the radar system tracking objects in real-time with:
+- Live object detection and tracking
+- Professional radar visualization
+- Real-time threat assessment
+- Audio feedback system
+
+---
+
 ## ✨ Key Features
 
 ### 🎨 Radar Visualization
