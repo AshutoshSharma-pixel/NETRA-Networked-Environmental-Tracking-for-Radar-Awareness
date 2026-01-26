@@ -1058,9 +1058,9 @@ def main():
         import os
         
         # Resolve absolute path to assets/sounds relative to this script
-        # This script is in doomsday/vision/, assets are in doomsday/assets/
+        # This script is in netra/vision/, assets are in netra/assets/
         current_dir = os.path.dirname(os.path.abspath(__file__))
-        project_root = os.path.dirname(current_dir) # doomsday/
+        project_root = os.path.dirname(current_dir) # netra/
         sounds_dir = os.path.join(project_root, 'assets', 'sounds')
 
         def _load(name, vol=0.06):

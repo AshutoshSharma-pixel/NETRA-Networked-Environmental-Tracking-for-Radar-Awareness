@@ -1,7 +1,7 @@
 """
 visuals/renderer.py
 
-A minimal pygame-based renderer for the Doomsday simulation. It draws a vertical
+A minimal pygame-based renderer for the Project NETRA simulation. It draws a vertical
 gradient for the sky and simple circle particles. This file keeps the rendering
 concise and beginner friendly.
 """
@@ -21,7 +21,7 @@ class Renderer:
         r.present()
     """
 
-    def __init__(self, width: int = 800, height: int = 600, caption: str = "Doomsday"):
+    def __init__(self, width: int = 800, height: int = 600, caption: str = "Project NETRA"):
         pygame.init()
         self.width = width
         self.height = height

@@ -1,7 +1,7 @@
 """
 engine/particle.py
 
-A lightweight Particle class for Doomsday simulation. Handles basic physics,
+A lightweight Particle class for Project NETRA simulation. Handles basic physics,
 aging, fade-out, and simple turbulence. Designed to be used by the simulation
 and rendered by the renderer.
 """
